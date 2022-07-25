@@ -21,3 +21,6 @@ echo "got images"
 python3 file.py
 
 # rm ${start_dir}bad_images/
+
+# to clean everything
+# find ~ -name *amogus_burger_king* -type f -delete
